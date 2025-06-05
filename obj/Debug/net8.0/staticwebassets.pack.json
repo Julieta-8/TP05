@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\css\\Captura de pantalla 2025-06-05 134121.png",
+      "PackagePath": "staticwebassets\\css\\Captura de pantalla 2025-06-05 134121.png"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\css\\Sorting-Hat.avif",
+      "PackagePath": "staticwebassets\\css\\Sorting-Hat.avif"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\css\\home.png",
+      "PackagePath": "staticwebassets\\css\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\css\\sala1.jfif",
+      "PackagePath": "staticwebassets\\css\\sala1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\css\\sala1.jpg",
+      "PackagePath": "staticwebassets\\css\\sala1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\css\\sala2.webp",
+      "PackagePath": "staticwebassets\\css\\sala2.webp"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\css\\sala4.jpg",
+      "PackagePath": "staticwebassets\\css\\sala4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Sala_Escape_05.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Sala_Escape_05.props",
+      "PackagePath": "build\\Sala_Escape_05.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Sala_Escape_05.props",
+      "PackagePath": "buildMultiTargeting\\Sala_Escape_05.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Sala_Escape_05.props",
+      "PackagePath": "buildTransitive\\Sala_Escape_05.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

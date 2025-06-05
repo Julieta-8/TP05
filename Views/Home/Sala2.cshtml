@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Sala2";
+}
+<body class = "Sala2"> 
+<div>
+    <h1> Tienes que realizar un hechizo para abrir la puerta a la siguiente sala! 
+    Pero haz perdido tus anotaciones!¿Las podrás encontrar? </h1>
+    
+
+<form action = '@Url.Action ("Sala02", "Home")' method = "POST"> 
+<input type= "text" nombre= "Ingrese el hechizo" />
+<input type= "submit" nombre= "Validar" />
+</form>
+    
+</div>
+</body>

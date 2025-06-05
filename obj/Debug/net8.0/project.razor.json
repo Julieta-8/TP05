@@ -19329,6 +19329,11 @@
   "RootNamespace": "Sala_Escape_05",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\Views\\Home\\sala4.cshtml",
+      "TargetPath": "Views\\Home\\sala4.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -19336,6 +19341,16 @@
     {
       "FilePath": "c:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\Views\\Home\\sala3b.cshtml",
+      "TargetPath": "Views\\Home\\sala3b.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\Views\\Home\\Tutorial.cshtml",
+      "TargetPath": "Views\\Home\\Tutorial.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19349,8 +19364,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\Views\\Home\\Sala3.cshtml",
+      "TargetPath": "Views\\Home\\Sala3.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\Views\\Home\\Sala2.cshtml",
+      "TargetPath": "Views\\Home\\Sala2.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\48799592\\Downloads\\Sala_Escape_05\\Sala_Escape_05\\Views\\Home\\Sala1.cshtml",
+      "TargetPath": "Views\\Home\\Sala1.cshtml",
       "FileKind": "mvc"
     }
   ],
