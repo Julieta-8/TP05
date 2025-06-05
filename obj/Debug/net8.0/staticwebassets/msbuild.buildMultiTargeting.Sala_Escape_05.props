@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sala_Escape_05.props" />
+</Project>
