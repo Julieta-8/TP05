@@ -21,3 +21,23 @@ footer {
   background-color: #f8f9fa;
   border-top: 1px solid #e9ecef;
 }
+.inicio{
+  background-image: "home.png";
+  background-repeat: none;
+  background-size: cover;
+}
+.Sala1{
+  background-image: "sala1.jpg";
+}
+.Sala2{
+  background-image: "sala2.webp";
+}
+.Sala3{
+  background-image: "Captura de pantalla 2025-06-05 134121.png";
+}
+.Sala4{
+  background-image: "sala4.jpg";
+}
+.Sala6{
+  background-image: "Sorting-Hat.avif";
+}
